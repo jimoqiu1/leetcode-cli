@@ -1,0 +1,27 @@
+{
+  "name": "leetcode-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hello": "bin/hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimoqiu1/leetcode-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimoqiu1/leetcode-cli/issues"
+  },
+  "homepage": "https://github.com/jimoqiu1/leetcode-cli#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "inquirer": "^8.2.4"
+  }
+}
